@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Let's go to the sea!"
+date:  2020-06-04
+categories: jekyll update
+---
+
+It will be a great day today, we go to Enoshima!
